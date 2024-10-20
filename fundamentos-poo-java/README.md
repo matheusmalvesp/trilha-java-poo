@@ -44,7 +44,7 @@ Também conhecido como **ações** ou **métodos**, é toda parte comportamental
 
 <h3 align="center">Exemplo de Classe e Objeto</h3>
 <p align="center">
-  <img src="classe.webp" width="400"/>
+  <img src="img/classe.webp" width="400"/>
 </p>
 
 Seguindo algumas convenções, as nossas classes são classificadas como:
@@ -56,5 +56,5 @@ Seguindo algumas convenções, as nossas classes são classificadas como:
 
 <h3 align="center">Exemplo de Arquitetura MVC</h3>
 <p align="center">
-  <img src="1688159797113.png" width="500"/>
+  <img src="img/1688159797113.png" width="500"/>
 </p>
